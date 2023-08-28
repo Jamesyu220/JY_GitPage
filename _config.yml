@@ -10,10 +10,12 @@
 ############################
 
 # Name of website
-title: My Website
+theme: jekyll-theme-minimal
+title: James Yu's homepage
+description: Bookmark this to keep an eye on my project updates!
 
 # Your name to show in the footer
-author: Some Person
+author: James Yu
 
 ###############################################
 # --- List of links in the navigation bar --- #
